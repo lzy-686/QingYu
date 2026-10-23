@@ -1,0 +1,18 @@
+# Unity 相关（在 QingYuClient/Myproject 里面）
+QingYuClient/Myproject/Library/
+QingYuClient/Myproject/Logs/
+QingYuClient/Myproject/obj/
+QingYuClient/Myproject/UserSettings/
+QingYuClient/Myproject/*.csproj
+QingYuClient/Myproject/*.sln
+
+# Python后端相关（在 QingYu_Game 里面）
+QingYu_Game/.venv/
+QingYu_Game/__pycache__/
+QingYu_Game/*.pyc
+QingYu_Game/chroma_db/
+QingYu_Game/.env
+
+# Windows系统垃圾
+Thumbs.db
+.DS_Store
